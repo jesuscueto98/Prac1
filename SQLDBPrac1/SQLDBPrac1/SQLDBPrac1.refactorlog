@@ -28,4 +28,18 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="cod" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="e479049e-c15e-4c0b-a246-b09ed8c61031" ChangeDateTime="09/06/2021 16:48:07">
+    <Property Name="ElementName" Value="[dbo].[INSCRITO].[Cod]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[INSCRITO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Cod_curso" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7624bc39-5910-4f43-95db-9ef0cadf4915" ChangeDateTime="09/06/2021 16:48:56">
+    <Property Name="ElementName" Value="[dbo].[CURSO].[cod]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CURSO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Cod" />
+  </Operation>
 </Operations>

@@ -1,4 +1,8 @@
 ﻿CREATE TABLE [dbo].[CURSO]
 (
-	[cod] INT NOT NULL PRIMARY KEY
+	[Cod] INT NOT NULL PRIMARY KEY, 
+    [Nombre] NVARCHAR(50) NOT NULL, 
+    [Fecha inicio] NVARCHAR(50) NOT NULL, 
+    [Duracion] INT NOT NULL, 
+    [Valor] INT NOT NULL
 )
