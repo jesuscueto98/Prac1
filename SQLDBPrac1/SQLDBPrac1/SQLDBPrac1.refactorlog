@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="05b3d3f9-5cb4-4f88-a2b2-dde52b9791ad" ChangeDateTime="09/06/2021 16:19:22">
+    <Property Name="ElementName" Value="[dbo].[ALUMNO].[nombre]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ALUMNO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Nombre" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4eb9db37-1d35-4e71-b0e9-5db1ca942986" ChangeDateTime="09/06/2021 16:23:30">
+    <Property Name="ElementName" Value="[dbo].[APODERADO].[id_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[APODERADO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_Alumno" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dc6be492-e8de-40b9-b0b8-bba445971deb" ChangeDateTime="09/06/2021 16:24:52">
+    <Property Name="ElementName" Value="[dbo].[FK_APODERADO_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[APODERADO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_APODERADO_ALUMNO]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8ff6c1f7-8193-4809-9d0b-2e83ee452520" ChangeDateTime="09/06/2021 16:28:20">
+    <Property Name="ElementName" Value="[dbo].[CURSO].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CURSO]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="cod" />
+  </Operation>
+</Operations>

@@ -1,0 +1,10 @@
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlprojAssemblyReference.cache
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\Model.xml
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\refactor.xml
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\postdeploy.sql
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\predeploy.sql
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+D:\Users\jesus\Documents\UDI\Prac1\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb
